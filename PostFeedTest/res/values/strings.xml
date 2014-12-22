@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PostFeedTest</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="facebook_app_id">1018096984886629</string>
+	<string name="ShareButtonTitle">Share</string>
+</resources>
